@@ -16,4 +16,4 @@ Segue a lista a baixo de nossos materiais para estudo.
 
 
 -------------
-Veja [como contribuir]().
+Veja [como contribuir](/issues/1).
