@@ -10,7 +10,7 @@ Segue a lista a baixo de nossos materiais para estudo.
 
 | Autor | Titulo | Vídeo |
 | ------ | ------ | ------- |
-| [Allex Nogue](https://alexnogueira.com/) | [Simplificando a busca de dados com Eloquent](/models/simplificando.md) | X |
+| <a href="http://alexnogueira.com" target="_blank">Allex Nogue</a> | [Simplificando a busca de dados com Eloquent](/models/simplificando.md) | X |
 
 
 
