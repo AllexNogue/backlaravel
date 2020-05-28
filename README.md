@@ -16,4 +16,4 @@ Segue a lista a baixo de nossos materiais para estudo.
 
 
 -------------
-Veja [como contribuir](/issues/1).
+Veja [como contribuir](https://github.com/AllexNogue/backlaravel/issues/1).
